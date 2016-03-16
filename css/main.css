@@ -1,0 +1,118 @@
+/*COMUN*/
+.top-5{
+	margin-top: 5%;
+}
+.top-3{
+	margin-top: 3%;
+}
+.top-1{
+	margin-top: 1%;
+}
+.top-10{
+	margin-top: 10%;
+}
+.txt-gray{
+	color: 	#AAAAAA;
+}
+.bold{
+	 font-weight: bold;
+}
+/* TAMANO 1200 Y 768*/
+.btn-gray{
+	background-color: gray;
+	padding: 1px;
+	width: 30%;
+	color: white;
+	text-align: center;
+}
+.linea{
+	border-right: 1px solid #A4A4A4;
+	padding-right: 10px;
+}
+.borde{
+	border: 1px solid #A4A4A4;
+}
+/*Lista con texto subrayado*/
+.lista{
+	display: inline;
+	list-style: none;
+	padding: 2%;
+}
+.sub{
+	text-decoration: underline;
+	color: #666666;
+}
+/*Parte 2*/
+.btn-black{
+	background-color: black;
+	width: 20%;
+	color: white;
+	text-align: center;
+}
+/*PARTE3*/
+.foto-gray{
+	background-color: #AAAAAA;
+	height: 150px;
+	text-align: center;
+}
+/*COLUMNA DE LADO DERECHO*/
+.btn-gray2{
+	background-color: gray;
+	padding: 1px;
+	width: 40%;
+	color: white;
+	text-align: center;
+}
+.bg-historia{
+	background-color: #D6D6D6;
+	padding: 2%;
+}
+.bg-video{
+	background-color: white;
+	border: 1px solid black;
+	height: 190px;
+}
+.bg-ico{
+	background-color: #E6E6E6;
+	border: 1px solid black;
+	border-top: none;
+	height: 50px;
+}
+.borde2{
+	border: 2px solid white;
+	width: 60%;
+	display: inline-block;
+}
+.padding{
+	padding: 4px;
+}
+/*.circulo{
+	background-color: black;
+	width: 13px;
+	height: 13px;
+	border-radius: 100px;
+	display: inline-block;
+}*/
+/*Agenda*/
+.cuadro-gray{
+	background-color: #AAAAAA;
+	width: 85px;
+	height: 85px;
+	padding: 10%;
+	margin-top: -10%;
+}
+.size{
+	font-size: 12px;
+}
+/*PARTE 3 LADO DERECHO*/
+.nodeco{
+	list-style: none;
+}
+.top{
+	margin-top: -4%;
+}
+/*FOTTER*/
+.gruesa{
+	border: 4px solid gray;
+	
+}
